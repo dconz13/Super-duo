@@ -59,8 +59,12 @@ public class AddBook extends Fragment implements LoaderManager.LoaderCallbacks<C
         super.onResume();
         MainActivity mainActivity = (MainActivity)getActivity();
         String resultEan = mainActivity.getEanResult();
-        if (!resultEan.equals("")) {
+        if(resultEan ==  null){
+            ean.setText("");
+        }
+        else if (!resultEan.equals("")) {
             ean.setText(resultEan);
+            mainActivity.setEanResult("");
         }
     }
 

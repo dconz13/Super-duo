@@ -68,7 +68,6 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerF
     public void onActivityResult(int requestCode, int resultCode, Intent intent){
         IntentResult scanResult = IntentIntegrator.parseActivityResult(requestCode, resultCode, intent);
         if(scanResult!=null){
-            Log.v("MainActivity", "scanResults: " + scanResult.getContents());
 //            Bundle bundle = new Bundle();
 //            bundle.putString(AddBook.BARCODE_RESULTS, scanResult.getContents());
 //            AddBook addBook = new AddBook();
@@ -80,6 +79,8 @@ public class MainActivity extends ActionBarActivity implements NavigationDrawerF
     public String getEanResult(){
         return eanResult;
     }
+
+    public void setEanResult(String ean){ eanResult = ean;}
 
     @Override
     public void onNavigationDrawerItemSelected(int position) {

@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.3\jars\classes.jar"
+        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zbar\1.8.3\jars\classes.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="2acb8f25e91dc79b3e9fe3e4fc059d491756efcd">
-        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-bb25ddfbd286da966006e272ecaa56d0dc5059c8.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
-        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-2a55774e18dd0b1d96f0ac5d1920579b251418f6.jar" />
+        sha1="99ec7a15c96670fc376811136c027fbd4dbc26e9">
+        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-cfca09b8f5eb4d6cd62631bc96a3debc74409ff6.jar" />
     </item>
     <item
         jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
@@ -21,13 +14,6 @@
         revision="21.1.2"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
         <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-f972a37528e403a7538be741e6b7691c8d4ba685.jar" />
-    </item>
-    <item
-        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-6e15b58adaeb685e6f2a24dd83f3a953db4de367.jar" />
     </item>
     <item
         jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\jars\classes.jar"
@@ -44,6 +30,20 @@
         <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\zbar-eab090ee8b820196683b27052b7ae60ef11f6bfc.jar" />
     </item>
     <item
+        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-6e15b58adaeb685e6f2a24dd83f3a953db4de367.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\core\1.8.3\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2acb8f25e91dc79b3e9fe3e4fc059d491756efcd">
+        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-bb25ddfbd286da966006e272ecaa56d0dc5059c8.jar" />
+    </item>
+    <item
         jar="C:\Users\Dillon Connolly\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -51,11 +51,11 @@
         <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-5c7f9b44e85116cebcc60363fd66e41b2e5c588f.jar" />
     </item>
     <item
-        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\exploded-aar\me.dm7.barcodescanner\zbar\1.8.3\jars\classes.jar"
+        jar="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\jacoco\jacocoagent.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="99ec7a15c96670fc376811136c027fbd4dbc26e9">
-        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\classes-cfca09b8f5eb4d6cd62631bc96a3debc74409ff6.jar" />
+        sha1="05d4f9e6f36f58a60dc65a4b1af30ee76201a530">
+        <dex dex="C:\Users\Dillon Connolly\AndroidStudioProjects\alexandria\app\build\intermediates\pre-dexed\debug\jacocoagent-2a55774e18dd0b1d96f0ac5d1920579b251418f6.jar" />
     </item>
 
 </items>
